@@ -112,11 +112,11 @@ b, strong {
 } 
 
 .Abt {
-  border: -1px dotted rgb(255, 255, 255);
+  border: 25px dotted rgb(255, 255, 255);
   display: inline-block;
   max-width: 564px;
   padding: 10px;
-  word-break: break-all; /* optional */
+  word-break:break-word ; /* optional */
 }
 .dts{
   border: 1px dotted rgb(190, 38, 38);
